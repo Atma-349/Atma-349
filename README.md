@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+### Contacts:
+<a href="https://facebook.com/username"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <!--
 **Atma-349/Atma-349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
