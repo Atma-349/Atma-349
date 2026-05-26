@@ -4,9 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=✦%20Atma%20✦&fontSize=55&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <!-- Two Anime GIFs Side by Side -->
-<img src="https://media1.tenor.com/m/ZafC06r3sksAAAAC/anime-anime-girl.gif" width="200" alt="anime gif 1"/>
+<img src="https://tenor.com/view/oshi-no-ko-yaosobi-hoshino-ai-ai-hoshino-gif-8231693823407830679" width="200" alt="anime gif 1"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://media1.tenor.com/m/JbnLKar05tAAAAAC/anime-girl-light-blue-hair-anime.gif" width="200" alt="anime gif 2"/>
 
 <br/>
 
