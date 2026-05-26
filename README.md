@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=✦%20Atma%20✦&fontSize=55&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <!-- Anime GIF -->
-<img src="https://media1.tenor.com/m/cjzZ60QANpcAAAAC/oshi-no-ko-yaosobi.gif" width="420" alt="Oshi no Ko - Hoshino Ai"/>
+<img src="https://media1.tenor.com/m/R7RRaJNwFE0AAAAC/aharen-san-aharen-san-anime.gif" width="420" alt="Oshi no Ko - Hoshino Ai"/>
 
 <br/>
 
