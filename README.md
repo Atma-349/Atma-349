@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=✦%20Atma%20✦&fontSize=55&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <!-- Anime GIF -->
-<img src="https://giffiles.alphacoders.com/359/35973.gif" width="1000" height="500" alt="aharen"/>
+<img src="https://giffiles.alphacoders.com/359/35973.gif" width="800" alt="aharen"/>
 
 <br/>
 
