@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=✦%20Atma%20✦&fontSize=55&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <!-- Anime GIF -->
-<img src="https://giffiles.alphacoders.com/359/35973.gif" width="1000" alt="aharen"/>
+<img src="https://giffiles.alphacoders.com/359/35973.gif" width="1000" height="500" alt="aharen"/>
 
 <br/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Atma+%F0%9F%91%8B;Computer+Science+Student+%7C+Programmer+in+Progress+%F0%9F%92%BB;Anime+Enthusiast+%F0%9F%8E%AC+%7C+Gamer+%F0%9F%8E%AE;Music+Lover+%F0%9F%8E%B5+%7C+Keep+Going!+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Atma+%F0%9F%91%8B;Computer+Science+Student+%7C;Programmer+in+Progress+%F0%9F%92%BB;Anime+Enthusiast+%F0%9F%8E%AC+%7C+Gamer+%F0%9F%8E%AE;Music+Lover+%F0%9F%8E%B5+%7C+Keep+Going!+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
